@@ -1,8 +1,10 @@
 #  👋`Hello World!`
 
-- 📚 Currently Learning **DeepLearning**
-- 📍 CSE Undergrad **@NIT Surat**
-- 🏁 New to the code race, but ready to outpace!
+- 🚀 Founder @ Calitric AI | AI Training & Evaluation
+- 🤖 Building AI Benchmarks, Agent Evaluations & Training Data
+- 💻 Software Engineer | Python • Docker • Linux
+- 📍 CSE | NIT Surat
+- 🏁 Building, breaking & benchmarking AI systems
 
 ## 🌏Connect:
 
